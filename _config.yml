@@ -20,7 +20,7 @@ locale                   : "en-US"
 title                    : "Big Big Big Brothers!!!!"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "Peter Rabbit"
 description              : "An Data-Insighting Sites."
 url                      : "https://bbbbros.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
