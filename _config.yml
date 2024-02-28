@@ -106,9 +106,9 @@ analytics:
 # Site Author
 author:
   name             : "Peter Luna"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/profile.jpg"
   bio              : "기억되는것은 기록이다."
-  location         : "Somewhere"
+  location         : "Somewhere Over The RainBow By Imp."
   email            :
   links:
     - label: "Email"
