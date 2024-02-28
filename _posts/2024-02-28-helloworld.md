@@ -8,3 +8,5 @@ title:  "bbbbros first posting"
 **Hello world**, this is my first bbbbros blog post.
 
 I hope you like it!
+
+운동 좀 하시게!!!!!
