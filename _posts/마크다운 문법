@@ -1,0 +1,57 @@
+구글 코랩에서 지원하는 마크다운(Markdown) 문법은 다음과 같습니다.
+
+마크다운 문법
+
+#
+제목(Header)
+
+
+##
+소제목(Sub-Header)
+
+
+###
+소제목(Sub-Sub-Header)
+
+
+*
+글머리 기호(Bullet Point)
+
+
+1.
+번호 매기기(Numbered List)
+
+
+>
+인용구(Blockquote)
+
+
+---
+가로 줄(Horizontal Rule)
+
+
+**
+강조(Bold)
+
+_
+강조(Italic)
+
+
+~~
+취소선(Strikethrough)
+
+
+` `
+인라인 코드(Inline Code)
+
+
+```    \``
+코드 블럭(Code Block)
+
+
+[링크](URL)
+링크(Link)
+
+
+![대체 텍스트](이미지 URL)
+이미지(Images)
